@@ -16,7 +16,7 @@ This project integrates Whisper AI for voice transcription and automatically sen
 📎 https://www.canva.com/design/DAGoXpPeK7s/UK3nwVJxVSuk6vxYTwEQEQ/edit?utm_content=DAGoXpPeK7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 2️⃣ Airtable Base
-🔗 https://airtable.com/invite/l?inviteId=inv5y7sAv2JAGTPO0&inviteToken=e04c595c8ad35fdf02f3dc235850a4c30903a36d4379f2a38cc87f2cfdad7759&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+🔗 https://airtable.com/appkHXwniH7vBvjIA/shrXWX0EvfxuGCw9r
 
 3️⃣ Prompt Engineering Guide
 📄 Google Doc: https://docs.google.com/document/d/18lskSplOuhn7JJRrQ38N6QARuzALb6JFYjtfNB4MaDY/edit?usp=sharing
